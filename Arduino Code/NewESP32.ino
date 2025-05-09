@@ -8,10 +8,10 @@
 #include <time.h>
 
 /* WiFi and Firebase credentials */
-#define WIFI_SSID "VM7954961"
-#define WIFI_PASSWORD "acpwzfkfJc2d"
-#define API_KEY "AIzaSyC4uRXX2kCuK3BPI4d0YeHXYv8_5hnp44Y"
-#define DATABASE_URL "https://smart-irrigation-system-79c3d-default-rtdb.europe-west1.firebasedatabase.app/"
+#define WIFI_SSID "*******" /* My WIFI credentials were removed for privacy purposes */
+#define WIFI_PASSWORD "*******" /* My WIFI credentials were removed for privacy purposes */
+#define API_KEY "*******" /* My FIREBASE credentials were removed for privacy purposes */
+#define DATABASE_URL "*******" /* My FIREBASE credentials were removed for privacy purposes */
 
 /* Firebase objects for handling data and authentication */
 FirebaseData fbdo_stream;   /* Stream object for listening to data changes */
